@@ -1,5 +1,5 @@
 function f(x)
-cos(x) + x
+sin(x) + x
 end
 
 g(x) = x^2
